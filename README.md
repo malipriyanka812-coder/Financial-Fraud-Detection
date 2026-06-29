@@ -79,7 +79,12 @@ The Tableau dashboard provides insights into:
 * Transaction Trends
 * Geographic Fraud Distribution
 * High-Risk Customer Segments
+  
+## 📊 Dashboard Preview
 
+### Financial Fraud Detection Dashboard
+
+![Financial Fraud Detection Dashboard](Fraud%20analysis%20(2).png)
 ---
 
 ## 💡 Key Insights
